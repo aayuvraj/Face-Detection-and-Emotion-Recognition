@@ -8,4 +8,12 @@ In this project, we take into account different approaches like Eigenfaces, Prin
 
 ![Augmented Data](/Output_Images/Augmented_Data.PNG)
 
+* **Training and Validation Accuracy and loss for Face Recognition using Convolutional Neural Networks**
+
+![Accuracy and Loss Graph Face Recognition](/Output_Images/CNN_face_rec_graph.PNG)
+
+* **Training and Validation Accuracy and loss for Emotion Recognition using Convolutional Neural Networks**
+
+![Accuracy and Loss Graph Emotion Recognition](/Output_Images/CNN_emo_rec_graph.PNG)
+
 Note : For more details about the description and results of the project please go through the ML_Project_Report.pdf file in the repository.
